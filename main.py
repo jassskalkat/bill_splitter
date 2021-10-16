@@ -1,5 +1,5 @@
-# bill_splitter is a program that splits the bill amount fairly among friends.
-# The program keeps the fun alive and make sure that everyone pays an equal amount. 
+# bill_splitter is a program that splits the bill amount somewhat among friends.
+# The program keeps the fun alive and makes sure that everyone pays an equal amount. 
 
 import random
 
